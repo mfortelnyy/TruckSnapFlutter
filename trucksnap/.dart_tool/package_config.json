@@ -800,13 +800,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "truckpro",
+      "name": "trucksnap",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2025-02-21T04:47:34.912667Z",
+  "generated": "2025-02-21T03:35:27.694510Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///Users/maksym/Documents/IIT%20Fall%202023/CS442/flutter",
