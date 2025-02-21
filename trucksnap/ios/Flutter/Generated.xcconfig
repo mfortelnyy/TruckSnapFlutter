@@ -1,0 +1,15 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/maksym/Documents/IIT Fall 2023/CS442/flutter
+FLUTTER_APPLICATION_PATH=/Users/maksym/Documents/GitHub/TruckSnapFlutter/trucksnap
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_TARGET=/Users/maksym/Documents/GitHub/TruckSnapFlutter/trucksnap/lib/main.dart
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=0.1.5
+FLUTTER_BUILD_NUMBER=0.1.5
+CONFIGURATION_BUILD_DIR=/Users/maksym/Documents/GitHub/TruckSnapFlutter/trucksnap/build/ios/iphoneos
+EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
+EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/maksym/Documents/GitHub/TruckSnapFlutter/trucksnap/.dart_tool/package_config.json

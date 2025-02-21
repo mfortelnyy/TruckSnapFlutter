@@ -1,0 +1,1 @@
+ /Users/maksym/Documents/GitHub/TruckSnapFlutter/trucksnap/.dart_tool/flutter_build/6228d8a320cae51f8d46644996e6edc7/native_assets.yaml: 
